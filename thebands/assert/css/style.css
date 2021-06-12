@@ -174,9 +174,9 @@ html {
 }
 
 #header {
+    position: fixed;
     height: 46px;
     background-color: black;
-    position: fixed;
     top: 0;
     left: 0;
     right: 0;
